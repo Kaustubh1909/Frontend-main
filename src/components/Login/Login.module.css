@@ -60,7 +60,7 @@
   padding:12px;
   border: none;
   border-radius: 5px;
-  background-color: #993399;
+  background-color: #E0B0FF;
   font-size: 18px;
   color: #fff;
 }
@@ -69,5 +69,6 @@
 .signup_button{
   width:100%;
   text-align: center;
+  background-color: #fff;
 
 }
