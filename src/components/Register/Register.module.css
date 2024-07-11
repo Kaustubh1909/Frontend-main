@@ -23,7 +23,7 @@
     height: 84vh;
     min-width: 450px;
     padding: 40px;
-    background-color: #fff;
+    background-color: #F2D2BD;
     gap: 20px;
     border-radius: 8px;
   }
@@ -59,7 +59,7 @@
     padding:12px;
     border: none;
     border-radius: 5px;
-    background-color: #F2D2BD;
+    background-color: #C19A6B;
     font-size: 18px;
     color: #fff;
   }
