@@ -23,7 +23,8 @@
   height: 58vh;
   min-width: 450px;
   padding: 40px;
-  background-color: #CF9FFF;
+  background:url('https://www.echelonedge.com/wp-content/uploads/2023/05/Network-Inventory-Management.png') no-repeat center center fixed; 
+  background-size: cover;
   gap: 20px;
   border-radius: 8px;
 }
@@ -39,7 +40,7 @@
 .login_inputs_container label {
   font-size: 20px;
   font-weight: bold;
-  color: #c264ff;
+  color: #fff;
 }
 
 .login_inputs_container input {
