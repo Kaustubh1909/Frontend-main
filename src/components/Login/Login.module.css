@@ -1,5 +1,6 @@
 .body {
   background:url('https://www.echelonedge.com/wp-content/uploads/2023/05/Network-Inventory-Management.png') no-repeat center center fixed; 
+  background-size: cover;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -22,7 +23,7 @@
   height: 58vh;
   min-width: 450px;
   padding: 40px;
-  background-color: #fff;
+  background-color: #CF9FFF;
   gap: 20px;
   border-radius: 8px;
 }
