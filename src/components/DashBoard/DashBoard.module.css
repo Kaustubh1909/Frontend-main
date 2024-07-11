@@ -1,0 +1,17 @@
+.dashboard_wrap{
+    display: flex;
+    flex-direction: column;
+    width: 96%;
+    height: calc(100% - 105px);
+    padding: 25px;
+    padding-bottom: 0px;
+
+}
+
+.action_buttons_wrapper {
+    display: flex;
+    gap: 5px;
+}
+
+
+
