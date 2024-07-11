@@ -1,5 +1,6 @@
 .body {
      background:url('https://ourownstartup.com/wp-content/uploads/2021/04/Inventory-Management-c.jpg') no-repeat center center fixed; 
+     background-size: cover;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -48,7 +49,7 @@
     font-size: 15px;
     border-radius: 10px;
     border: 1px solid #000000;
-    background: #954535;
+    background: #fff;
     padding: 10px;
   }
   
