@@ -14,7 +14,7 @@ const Login = ({ checkAuthentication }) => {
 
     try {
       await checkAuthentication(username, password);
-      await axios.post("https://inventory-backend-6068.onrender.com/register",{
+      await axios.post("https://inventory-backend-6068.onrender.com",{
         
         username,password
       }).then(res=>{
